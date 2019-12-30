@@ -4,7 +4,7 @@
 
   <groupId>Manjutour12-30-MavenPro</groupId>
   <artifactId>Manjutour12-30-MavenPro</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.5-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Manjutour12-30-MavenPro</name>
